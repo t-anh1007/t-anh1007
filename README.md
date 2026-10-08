@@ -42,12 +42,21 @@ Book courts in real time, find matches by skill level, and play **stake-backed c
 </p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js_·_Express-339933?logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite_8-646CFF?logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/SePay_·_VietQR-0E7C3A" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/🎭_Playwright-2EAD33" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white" />
 </p>
 
 <sub>Full-Stack Developer & BA · team of 2 · Aug 2026 → now</sub>
@@ -76,12 +85,15 @@ A ride-hailing platform for customers, drivers and admins: quotes, driver matchi
 <a href="https://github.com/t-anh1007/CAB-Ride-Booking-System#0-performance-benchmarks"><img src="https://img.shields.io/badge/📊_Benchmarks-k6_load_tests-2CE6A6?style=for-the-badge&labelColor=10231D" /></a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js_·_Express-339933?logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_18-61DAFB?logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_·_FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" />
 </p>
 
@@ -93,10 +105,15 @@ A ride-hailing platform for customers, drivers and admins: quotes, driver matchi
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Tech stack using
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,vite,tailwind,nodejs,express,prisma,postgres,mongodb,redis,rabbitmq,kafka,docker,githubactions,vercel,railway&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,vite,tailwind,nodejs,express,prisma,postgres,mongodb,redis,rabbitmq,kafka,docker,githubactions,vercel,cloudflare,fastapi,postman&perline=10" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎭_Playwright-2EAD33" />
 </p>
 
 ## 🧠 How I work
